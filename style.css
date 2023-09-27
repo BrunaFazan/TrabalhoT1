@@ -1,0 +1,29 @@
+#professores{
+ margin: 10px; 
+ border-bottom: 2px solid black; 
+ width: 270px;
+ text-align: center; 
+}
+
+.perfil_professores{
+padding: 80px;
+border:3px solid black;
+border-radius: 60px;
+margin-top: 12px;
+}
+
+img{
+border-radius: 100%;
+ width: 200px; 
+ height: 190px;
+}
+
+h3{
+  text-align: center;
+  margin-top: 4px;
+}
+
+h5{
+text-align:center ;
+margin-top: 40px;
+}
